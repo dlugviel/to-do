@@ -1,9 +1,14 @@
 body {
-    background-color: gray;
+    
 }
 
 #container {
-    background-color: white;
+    border: 2px solid black;
     width: 360px;
     margin: 0 auto;
+}
+
+.completed {
+    color: gray;
+    text-decoration: line-through;
 }
